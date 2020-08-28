@@ -1,7 +1,7 @@
 class Animal {
 
     static int weight= 200;
-    static int weight1= weight+ 100;
+    static int weight1= weight+ 500;
     Animal(){
         System.out.println("Animal in Constructor : " + "Cheetah");
         System.out.println(weight);
