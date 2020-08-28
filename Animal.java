@@ -7,7 +7,7 @@ class Animal {
         System.out.println(weight);
     }
 
-    String Animal_Name= "Tiger";
+    String Animal_Name= "Elephant";
     void Name(){
         System.out.println("Animal in Function : " + Animal_Name);
         System.out.println(weight1);
